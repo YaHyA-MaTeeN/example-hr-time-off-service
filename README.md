@@ -1,4 +1,6 @@
 # ExampleHR: Time-Off Microservice
+**GitHub Repository:** https://github.com/YaHyA-MaTeeN/example-hr-time-off-service.git
+# ExampleHR: Time-Off Microservice
 
 This repository contains the backend implementation for the ExampleHR Time-Off Microservice. The system is designed to manage employee leave requests while maintaining strict eventual consistency with a simulated external Human Capital Management (HCM) system serving as the Source of Truth.
 

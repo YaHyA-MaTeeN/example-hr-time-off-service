@@ -1,5 +1,8 @@
 # Technical Requirement Document (TRD): Time-Off Microservice
 
+# Technical Requirement Document (TRD): Time-Off Microservice
+**GitHub Repository:** https://github.com/YaHyA-MaTeeN/example-hr-time-off-service.git
+
 ## 1. Introduction & Product Context
 [cite_start]ExampleHR features a module that serves as the primary interface for employees to request time off[cite: 3]. [cite_start]However, the external Human Capital Management (HCM) system remains the absolute "Source of Truth" for all employment data, including leave balances[cite: 4]. 
 
